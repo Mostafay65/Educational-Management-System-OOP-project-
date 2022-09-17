@@ -1,0 +1,15 @@
+/Users/mostafayoussef/RiderProjects/Educational Management System/Educational Management System/bin/Debug/net6.0/Educational Management System
+/Users/mostafayoussef/RiderProjects/Educational Management System/Educational Management System/bin/Debug/net6.0/Educational Management System.deps.json
+/Users/mostafayoussef/RiderProjects/Educational Management System/Educational Management System/bin/Debug/net6.0/Educational Management System.runtimeconfig.json
+/Users/mostafayoussef/RiderProjects/Educational Management System/Educational Management System/bin/Debug/net6.0/Educational Management System.dll
+/Users/mostafayoussef/RiderProjects/Educational Management System/Educational Management System/bin/Debug/net6.0/ref/Educational Management System.dll
+/Users/mostafayoussef/RiderProjects/Educational Management System/Educational Management System/bin/Debug/net6.0/Educational Management System.pdb
+/Users/mostafayoussef/RiderProjects/Educational Management System/Educational Management System/obj/Debug/net6.0/Educational Management System.csproj.AssemblyReference.cache
+/Users/mostafayoussef/RiderProjects/Educational Management System/Educational Management System/obj/Debug/net6.0/Educational Management System.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mostafayoussef/RiderProjects/Educational Management System/Educational Management System/obj/Debug/net6.0/Educational Management System.AssemblyInfoInputs.cache
+/Users/mostafayoussef/RiderProjects/Educational Management System/Educational Management System/obj/Debug/net6.0/Educational Management System.AssemblyInfo.cs
+/Users/mostafayoussef/RiderProjects/Educational Management System/Educational Management System/obj/Debug/net6.0/Educational Management System.csproj.CoreCompileInputs.cache
+/Users/mostafayoussef/RiderProjects/Educational Management System/Educational Management System/obj/Debug/net6.0/Educational Management System.dll
+/Users/mostafayoussef/RiderProjects/Educational Management System/Educational Management System/obj/Debug/net6.0/ref/Educational Management System.dll
+/Users/mostafayoussef/RiderProjects/Educational Management System/Educational Management System/obj/Debug/net6.0/Educational Management System.pdb
+/Users/mostafayoussef/RiderProjects/Educational Management System/Educational Management System/obj/Debug/net6.0/Educational Management System.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+Prog 1 CS111
+Prog 2 CS112
+Math 1 CS123
+Math 2 CS333
+Prog 3 CS136
+Stat 1 CS240
+Stat 2 CS350
+IT Fund. IT543
